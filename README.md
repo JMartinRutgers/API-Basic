@@ -1,2 +1,2 @@
 # API-Basic
-Working with Json Getting movies 
+Working with Json Getting maps
